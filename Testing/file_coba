@@ -1,0 +1,3 @@
+class CobaCoba:
+    def __init__(self):
+        print("saya adalah")
