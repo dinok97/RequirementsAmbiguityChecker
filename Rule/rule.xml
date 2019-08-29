@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recomendation_rule>
+	<rule id="1" name="beberapa">
+		<preface>spesifikkan kuantitas</preface>
+        <suggestions>
+            <suggestion>dua</suggestion>
+			<suggestion>tiga</suggestion>
+		    <suggestion>lima</suggestion>
+			<suggestion>sepuluh</suggestion>
+			<suggestion>50</suggestion>
+		</suggestions>
+	</rule>
+	<rule id="2" name="banyak">
+		<preface>spesifikkan kuantitas</preface>
+        <suggestions>
+            <suggestion>lima</suggestion>
+			<suggestion>sepuluh</suggestion>
+		    <suggestion>lima belas</suggestion>
+			<suggestion>lima puluh</suggestion>
+			<suggestion>seratus</suggestion>
+			<suggestion>lima ratus</suggestion>
+			<suggestion>seribu</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="3" name="cepat">
+		<preface>spesifikkan cepatnya</preface>
+        <suggestions>
+            <suggestion>kurang dari 10 detik</suggestion>
+        </suggestions>
+	</rule>
+</recomendation_rule>

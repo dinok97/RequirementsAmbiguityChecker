@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recomendation_rule>
+	<rule id="1" name="beberapa">
+		<preface>spesifikkan kuantitas</preface>
+        <suggestions>
+            <suggestion>dua</suggestion>
+			<suggestion>tiga</suggestion>
+			<suggestion>sepuluh</suggestion>
+		    <suggestion>dua puluh</suggestion>
+			<suggestion>sembilan puluh</suggestion>
+			<suggestion>seratus</suggestion>
+		</suggestions>
+	</rule>
+	<rule id="2" name="mudah">
+		<preface>spesifikkan tingkat kemudahan</preface>
+        <suggestions>
+            <suggestion>hanya dengan satu kali klik</suggestion>
+			<suggestion>dapat selesai dalam satu detik</suggestion>
+		    <suggestion>tidak menghabiskan waktu</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="3" name="cukup">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>mampu</suggestion>
+			<suggestion>mampu menginputkan 10 data dalam satu waktu</suggestion>
+			<suggestion>ketersediaan yang sama</suggestion>
+			<suggestion>minimal 10 MB</suggestion>
+        </suggestions>
+	</rule>
+</recomendation_rule>
+
+

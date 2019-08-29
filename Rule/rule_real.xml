@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recomendation_rule>
+	<rule id="1" name="beberapa">
+		<preface>spesifikkan kuantitas</preface>
+        <suggestions>
+            <suggestion>dua</suggestion>
+			<suggestion>tiga</suggestion>
+			<suggestion>empat</suggestion>
+			<suggestion>sepuluh</suggestion>
+		    <suggestion>dua puluh</suggestion>
+			<suggestion>setidaknya 90% dari</suggestion>
+		</suggestions>
+	</rule>
+	<rule id="2" name="mudah">
+		<preface>spesifikkan tingkat kemudahan</preface>
+        <suggestions>
+            <suggestion>hanya dengan satu kali klik</suggestion>
+			<suggestion>dapat selesai dalam satu detik</suggestion>
+		    <suggestion>tidak menghabiskan waktu</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="3" name="cukup">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>mampu</suggestion>
+			<suggestion>mampu menginputkan 10 data dalam satu waktu</suggestion>
+			<suggestion>ketersediaan yang sama</suggestion>
+			<suggestion>minimal 10 MB</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="4" name="jelas">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>nyata</suggestion>
+			<suggestion>ukuran minimal 12</suggestion>
+			<suggestion>perpaduan warna yang kontras</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="5" name="sedikit">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>satu</suggestion>
+			<suggestion>dua</suggestion>
+			<suggestion>tiga</suggestion>
+			<suggestion>empat</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="6" name="banyak">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>tiga</suggestion>
+			<suggestion>empat</suggestion>
+			<suggestion>sepuluh</suggestion>
+			<suggestion>dua puluh</suggestion>
+			<suggestion>sembilan puluh</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="7" name="kuat">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>aman</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="8" name="baik">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>mendekati 0 kesalahan deteksi dari 100 kali tes</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="9" name="buruk">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>berhenti karena eror</suggestion>
+			<suggestion>terdapat bug</suggestion>
+			<suggestion>memiliki lebih dari satu defect</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="10" name="berguna">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>berfungsi dengan tepat</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="11" name="penting">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>lebih luas dari 1 cm2</suggestion>
+			<suggestion>lebih luas dari 10 cm2</suggestion>
+			<suggestion>lebih besar dari 1000 simpul</suggestion>
+			<suggestion>server standar dengan 2 processor</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="12" name="baru">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>kurang dari 10 menit</suggestion>
+			<suggestion>kurang dari 1 jam</suggestion>
+			<suggestion>hari ini</suggestion>
+			<suggestion>malam ini</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="13" name="serupa">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>sebuah</suggestion>
+			<suggestion>dalam rentang waktu satu detik</suggestion>
+			<suggestion>sama</suggestion>
+			<suggestion>secara semantik sama</suggestion>
+			<suggestion>sama dari segi syntax</suggestion>
+			<suggestion>sama dari segi kata</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="14" name="serupa">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>sebuah</suggestion>
+			<suggestion>dalam rentang waktu satu detik</suggestion>
+			<suggestion>sama</suggestion>
+			<suggestion>secara semantik sama</suggestion>
+			<suggestion>sama dari segi syntax</suggestion>
+			<suggestion>sama dari segi kata</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="15" name="mungkin">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>ganti dengan kata yang menunjukkan kepastian</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="16" name="sering">
+		<preface>Definisikan kuantitasnya</preface>
+        <suggestions>
+            <suggestion>lebih dari tiga kali</suggestion>
+			<suggestion>empat kali</suggestion>
+			<suggestion>lima kali</suggestion>
+			<suggestion>sepuluh kali</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="17" name="kompleks">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>dua</suggestion>
+			<suggestion>tiga</suggestion>
+			<suggestion>empat</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="18" name="spesifik">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>tertuju pada satu tujuan</suggestion>
+			<suggestion>unik</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="19" name="cepat">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>kurang dari satu jam</suggestion>
+			<suggestion>kurang dari satu menit</suggestion>
+			<suggestion>kurang dari satu detik setelah inisialisasi</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="20" name="tertentu">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>dua</suggestion>
+			<suggestion>tiga</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="21" name="berganda">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>satu</suggestion>
+			<suggestion>dua</suggestion>
+			<suggestion>10</suggestion>
+			<suggestion>100</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="22" name="kecil">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>paling banyak dua</suggestion>
+			<suggestion>paling banyak tiga</suggestion>
+			<suggestion>paling banyak empat</suggestion>
+			<suggestion>paling banyak dua detik</suggestion>
+			<suggestion>paling banyak tiga detik</suggestion>
+			<suggestion>paling banyak empat detik</suggestion>
+			<suggestion>paling banyak 10dB</suggestion>
+			<suggestion>perangkat lunak dengan paling banyak 10 modul</suggestion>
+			<suggestion>perangkat lunak dengan paling banyak 10 LOC</suggestion>
+			<suggestion>paling tinggi dua</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="23" name="selanjutnya">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>halaman home</suggestion>
+			<suggestion>halaman beranda</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="24" name="selanjutnya">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>halaman home</suggestion>
+			<suggestion>halaman beranda</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="25" name="pendek">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>lebih kecil dari 200 kata</suggestion>
+			<suggestion>lebih kecil dari seperempat kertas A4</suggestion>
+			<suggestion>paling lama satu detik</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="26" name="pelan">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>dengan kecepatan paling cepat satu detik per perintah</suggestion>
+			<suggestion>dengan kecepatan paling cepat 10m/s</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="27" name="sederhana">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>transaksi mendekati satu</suggestion>
+			<suggestion>permintaan mendekati satu</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="28" name="semua">
+		<preface>contohnya:</preface>
+        <suggestions>
+            <suggestion>stop</suggestion>
+			<suggestion>mulai</suggestion>
+			<suggestion>jeda</suggestion>
+			<suggestion>tahan</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="29" name="itu">
+		<preface>sebutkan benda yang dimaksud</preface>
+        <suggestions>
+            <suggestion>status</suggestion>
+			<suggestion>bagian</suggestion>
+			<suggestion>telepon genggam</suggestion>
+			<suggestion>telepon</suggestion>
+			<suggestion>tombol</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="30" name="rutin">
+		<preface>beri ukuran rutinnya</preface>
+        <suggestions>
+            <suggestion>satu kali setiap satu detik</suggestion>
+			<suggestion>satu kali setiap satu menit</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="31" name="setiap">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>sebuah</suggestion>
+			<suggestion>100%</suggestion>
+			<suggestion>100% dari</suggestion>
+			<suggestion>satu</suggestion>
+			<suggestion>dua</suggestion>
+			<suggestion>paling rendah 80% dari</suggestion>
+			<suggestion>paling tidak 80% dari objek bisnis</suggestion>			
+        </suggestions>
+	</rule>
+	<rule id="32" name="rendah">
+		<preface>-</preface>
+        <suggestions>
+            <suggestion>kurang dari 80</suggestion>
+			<suggestion>kurang dari 50%</suggestion>
+			<suggestion>kurang dari 150cm</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="33" name="kecuali">
+		<preface>beri perbaikan</preface>
+        <suggestions>
+			<suggestion>kondisi kebalikan yang spesifik</suggestion>			
+        </suggestions>
+	</rule>
+	<rule id="34" name="lainnya">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>ganti dengan kata benda</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="35" name="kemungkinan">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>beri sesuatu yang pasti</suggestion>			
+        </suggestions>
+	</rule>
+	<rule id="36" name="adaptif">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>mudah di-install</suggestion>
+			<suggestion>dapat dibuka di berbagai web browser</suggestion>			
+        </suggestions>
+	</rule>
+	<rule id="37" name="selain itu">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>sebutkan nama bendanya</suggestion>	
+        </suggestions>
+	</rule>
+	<rule id="38" name="sesuai">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>sama dengan</suggestion>
+			<suggestion>mirip paling tidak 90% dengan</suggestion>
+			<suggestion>mirip paling tidak 80% dengan</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="39" name="tersedia">
+		<preface>contoh perbaikan</preface>
+        <suggestions>
+			<suggestion>selalu ada</suggestion>
+			<suggestion>dapat dilihat</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="40" name="tak terbatas">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>berikan batas untuk memudahkan pemahaman</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="41" name="konsisten">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>100% kebutuhan terpenuhi</suggestion>
+			<suggestion>100% modul terimplementasikan</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="42" name="garansi">
+		<preface>contoh perbaikan</preface>
+        <suggestions>
+			<suggestion>100% kebutuhan terpenuhi</suggestion>
+			<suggestion>100% persyaratan terpenuhi</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="43" name="kredibel">
+		<preface>jelaskan mengapa kredibel</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="44" name="modifikasi">
+		<preface>jelaskan seberapa besar modifikasinya</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="45" name="modifikasi">
+		<preface>jelaskan seberapa besar modifikasinya</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="46" name="kemudahan">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>membutuhkan paling tidak satu operator per jam</suggestion>
+			<suggestion>tidak membutuhkan tool tambahan untuk melakukannya</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="47" name="efektif">
+		<preface>jelaskan dengan sesuatu yang terukur</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="48" name="efisien">
+		<preface>jelaskan dengan sesuatu yang terukur, misalnya</preface>
+        <suggestions>
+			<suggestion>menggunakan paling banyak 80% sumber daya</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="49" name="musiman">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>dua kali dalam satu tahun</suggestion>
+			<suggestion>dua kali dalam satu bulan</suggestion>
+			<suggestion>dua kali dalam satu hari</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="50" name="adil">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>memiliki nilai yang sama</suggestion>
+			<suggestion>sama berat</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="51" name="void">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>100% output adalah benar</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="52" name="maksimum">
+		<preface>Jelaskan ukuran maksimumnya</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="53" name="minimum">
+		<preface>Jelaskan ukuran minimumnya</preface>
+        <suggestions>
+			<suggestion>paling tidak memiliki skor 10</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="54" name="anda">
+		<preface>ganti dengan nama benda</preface>
+        <suggestions>
+			<suggestion>pembeli</suggestion>
+			<suggestion>pengguna</suggestion>
+			<suggestion>administrator</suggestion>
+			<suggestion>pembeli</suggestion>
+			<suggestion>pengguna</suggestion>
+			<suggestion>administrator</suggestion>
+			<suggestion>aktor</suggestion>
+			<suggestion>manajer</suggestion>
+			<suggestion>pegawai</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="55" name="kamu">
+		<preface>ganti dengan nama benda</preface>
+        <suggestions>
+			<suggestion>pembeli</suggestion>
+			<suggestion>pengguna</suggestion>
+			<suggestion>administrator</suggestion>
+			<suggestion>aktor</suggestion>
+			<suggestion>manajer</suggestion>
+			<suggestion>pegawai</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="56" name="siapa">
+		<preface>ganti dengan nama benda</preface>
+        <suggestions>
+			<suggestion>pembeli</suggestion>
+			<suggestion>pengguna</suggestion>
+			<suggestion>administrator</suggestion>
+			<suggestion>aktor</suggestion>
+			<suggestion>manajer</suggestion>
+			<suggestion>pegawai</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="57" name="kami">
+		<preface>ganti dengan nama benda</preface>
+        <suggestions>
+			<suggestion>pemilik</suggestion>
+			<suggestion>pendiri</suggestion>
+			<suggestion>penjual</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="58" name="mereka">
+		<preface>ganti dengan nama benda</preface>
+        <suggestions>
+			<suggestion>internet</suggestion>
+			<suggestion>mesin</suggestion>
+			<suggestion>tombol</suggestion>
+			<suggestion>pengguna</suggestion>
+			<suggestion>pembeli</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="59" name="ini">
+		<preface>ganti dengan nama benda</preface>
+        <suggestions>
+			<suggestion>handphone</suggestion>
+			<suggestion>telepon genggam</suggestion>
+			<suggestion>sistem</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="60" name="seseorang">
+		<preface>sebutkan nama atau jabatannya</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="61" name="dia">
+		<preface>ganti dengan nama benda</preface>
+        <suggestions>
+			<suggestion>pembeli</suggestion>
+			<suggestion>pengguna</suggestion>
+			<suggestion>administrator</suggestion>
+			<suggestion>aktor</suggestion>
+			<suggestion>manajer</suggestion>
+			<suggestion>pegawai</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="62" name="saya">
+		<preface>ganti dengan nama atau pekerjaan</preface>
+        <suggestions>
+			<suggestion>pembeli</suggestion>
+			<suggestion>pengguna</suggestion>
+			<suggestion>administrator</suggestion>
+			<suggestion>aktor</suggestion>
+			<suggestion>manajer</suggestion>
+			<suggestion>pegawai</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="63" name="segala">
+		<preface>sebaiknya lebih spesifik</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="64" name="variasi">
+		<preface>sebaiknya lebih spesifik</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="65" name="dapat dimengerti">
+		<preface>jelaskan penyebabnya, misalnya</preface>
+        <suggestions>
+			<suggestion>pengguna membutuhkan waktu satu jam saja untuk mahir penggunakan sistem</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="66" name="sementara">
+		<preface>tampilkan waktu awal dan berakhir</preface>
+        <suggestions>
+			<suggestion>-</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="67" name="lama">
+		<preface>berikan ukuran waktu</preface>
+        <suggestions>
+			<suggestion>lebih dari 1 jam</suggestion>
+			<suggestion>lebih dari 1 hari</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="68" name="sebentar">
+		<preface>berikan ukuran waktu</preface>
+        <suggestions>
+			<suggestion>kurang dari 1 menit</suggestion>
+			<suggestion>kurang dari 1 jam</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="69" name="relevan">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>password yang benar</suggestion>
+			<suggestion>nama email yang valid</suggestion>
+        </suggestions>
+	</rule>
+	<rule id="70" name="dekat">
+		<preface>-</preface>
+        <suggestions>
+			<suggestion>kurang dari 1km</suggestion>
+			<suggestion>satu kota</suggestion>
+			<suggestion>satu kecamatan</suggestion>
+        </suggestions>
+	</rule>
+</recomendation_rule>
+
+
