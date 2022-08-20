@@ -1,0 +1,6 @@
+build/
+dist/
+*.pyc
+Temp.ipynb
+.ipynb_checkpoints
+venv/
