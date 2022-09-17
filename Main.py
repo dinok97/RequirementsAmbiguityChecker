@@ -116,7 +116,7 @@ class MainController(tk.Tk):
 
     def export_file(self):
         save_file_name = FileDialog.asksaveasfilename(title="Pilih Lokasi Penyimpanan File", filetypes=(("docx files", "*.docx*"), ("pdf files", "*.pdf")))
-        if save_file_name is not "":
+        if save_file_name != "":
             print("Direktori File: %s" % save_file_name)
             export_file = ExportFile(save_file_name, self.srs_file)
             export_file.start_export_file()
